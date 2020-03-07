@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to the 3D point cloud semantic segmentation for street scenes
 description: SHREC 2020 track
+
+markdown: kramdown
